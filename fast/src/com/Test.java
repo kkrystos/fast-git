@@ -16,6 +16,11 @@ public class Test {
 			List<String> ls = new ArrayList<String>();
 			ls.add("jeden");
 			ls.add("dwa");
+			ls.add("trzy");
+			ls.add("cztery");
+			ls.add("piêæ");
+			ls.add("szeœæ");
+			ls.add("siedem");
 			listaList.add(ls);
 		}
 
