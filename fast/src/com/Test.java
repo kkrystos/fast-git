@@ -25,8 +25,9 @@ public class Test {
 			listaList.add(ls);
 		}
 
+		int i= 1;
 		for (List<String> list : listaList) {
-			System.out.println(list);
+			System.out.println(i+++" "+list);
 		}
 
 	}
