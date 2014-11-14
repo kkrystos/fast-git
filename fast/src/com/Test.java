@@ -23,7 +23,8 @@ public class Test {
 			ls.add("siedem"); 
 			ls.add("osiem"); 	
 			ls.add("dziewiec"); 		
-			ls.add("dziesiec"); 		
+			ls.add("dziesiec"); 	
+			ls.add("jedenascie");
 			listaList.add(ls);
 		}
 
