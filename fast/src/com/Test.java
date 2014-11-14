@@ -22,6 +22,7 @@ public class Test {
 			ls.add("szeœæ");
 			ls.add("siedem"); 		
 			ls.add("osiem"); 	
+			ls.add("dziewiêæ");
 			listaList.add(ls);
 		}
 
