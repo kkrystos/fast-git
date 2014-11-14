@@ -21,8 +21,7 @@ public class Test {
 			ls.add("piêæ");
 			ls.add("szeœæ");
 			ls.add("siedem"); 		
-			ls.add("osiem"); 	
-			ls.add("dziewiec"); 		
+			ls.add("osiem"); 		
 			ls.add("dziesiec"); 		
 			listaList.add(ls);
 		}
@@ -31,7 +30,5 @@ public class Test {
 		for (List<String> list : listaList) {
 			System.out.println(i+++" "+list);
 		}
-
 	}
-
 }
