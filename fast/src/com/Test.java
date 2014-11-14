@@ -12,7 +12,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		List<List<String>> listaList = new ArrayList<List<String>>();
 
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < 11; i++) {
 			List<String> ls = new ArrayList<String>();
 			ls.add("jeden");
 			ls.add("dwa");
@@ -21,7 +21,10 @@ public class Test {
 			ls.add("piêæ");
 			ls.add("szeœæ");		
 			ls.add("siedem"); 
-			
+			ls.add("osiem"); 	
+			ls.add("dziewiec"); 		
+			ls.add("dziesiec"); 	
+			ls.add("jedenascie");
 			listaList.add(ls);
 		}
 
