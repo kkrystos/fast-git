@@ -12,7 +12,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		List<List<String>> listaList = new ArrayList<List<String>>();
 
-		for (int i = 0; i < 11; i++) {
+		for (int i = 0; i < 20; i++) {
 			List<String> ls = new ArrayList<String>();
 			ls.add("jeden");
 			ls.add("dwa");
