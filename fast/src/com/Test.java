@@ -19,6 +19,8 @@ public class Test {
 			ls.add("trzy");
 			ls.add("cztery");
 			ls.add("piêæ");
+			ls.add("szeœæ");
+			ls.add("siedem");
 			listaList.add(ls);
 		}
 
