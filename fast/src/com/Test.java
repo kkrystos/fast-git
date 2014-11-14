@@ -21,7 +21,9 @@ public class Test {
 			ls.add("piêæ");
 			ls.add("szeœæ");
 			ls.add("siedem"); 		
-			ls.add("osiem"); 				
+			ls.add("osiem"); 	
+			ls.add("dziewiec"); 		
+			ls.add("dziesiec"); 		
 			listaList.add(ls);
 		}
 
