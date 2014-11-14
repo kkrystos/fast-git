@@ -20,6 +20,7 @@ public class Test {
 			ls.add("cztery");
 			ls.add("piêæ");
 			ls.add("szeœæ");		
+			ls.add("siedem"); 
 			ls.add("osiem"); 	
 			ls.add("dziewiec"); 		
 			ls.add("dziesiec"); 		
