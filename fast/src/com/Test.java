@@ -25,6 +25,17 @@ public class Test {
 			ls.add("dziewiec"); 		
 			ls.add("dziesiec"); 	
 			ls.add("jedenascie");
+			ls.add("jeden");
+			ls.add("dwa");
+			ls.add("trzy");
+			ls.add("cztery");
+			ls.add("piêæ");
+			ls.add("szeœæ");		
+			ls.add("siedem"); 
+			ls.add("osiem"); 	
+			ls.add("dziewiec"); 		
+			ls.add("dziesiec"); 	
+			ls.add("jedenascie");
 			listaList.add(ls);
 		}
 
