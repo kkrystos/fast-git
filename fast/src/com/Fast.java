@@ -8,5 +8,6 @@ public class Fast {
 		System.out.println("Test 2");
 		
 		System.out.println("wprowadzi³em poprawki do mastera ");
+		System.out.println("wprowadzi³em drugie poprawki do mastera ");
 	}
 }
