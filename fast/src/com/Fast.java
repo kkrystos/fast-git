@@ -6,5 +6,7 @@ public class Fast {
 		// TODO Auto-generated method stub
 		System.out.println("Test 1");
 		System.out.println("Test 2");
+		
+		System.out.println("wprowadzi³em poprawki do mastera ");
 	}
 }
