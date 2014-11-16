@@ -9,5 +9,6 @@ public class Fast {
 		
 		System.out.println("wprowadzi³em poprawki do mastera ");
 		System.out.println("wprowadzi³em drugie poprawki do mastera ");
+		System.out.println("wprowadzi³em trzecie poprawki do mastera ");
 	}
 }
