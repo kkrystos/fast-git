@@ -34,8 +34,9 @@ public class Test {
 			ls.add("siedem"); 
 			ls.add("osiem"); 	
 			ls.add("dziewiec"); 		
-			ls.add("dziesiec"); 
-			ls.add("11");
+			ls.add("dziesiec"); 	
+			ls.add("jedenascie");
+			ls.add("dwanascie");
 			listaList.add(ls);
 		}
 
