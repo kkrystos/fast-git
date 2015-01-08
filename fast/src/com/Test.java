@@ -35,11 +35,8 @@ public class Test {
 			ls.add("osiem"); 	
 			ls.add("dziewiec"); 		
 			ls.add("dziesiec"); 	
-<<<<<<< HEAD
 			ls.add("jedenascie");
 			ls.add("dwanascie");
-=======
->>>>>>> branch 'master' of https://github.com/kkrystos/fast-git.git
 			listaList.add(ls);
 		}
 
